@@ -1,0 +1,1 @@
+# tool-python-python_orm2go_code
